@@ -1,0 +1,5 @@
+MentorBitBMP280 KEYWORD1
+begin KEYWORD2
+leerTemperatura KEYWORD2
+leerPresion KEYWORD2
+leerAltura KEYWORD2
