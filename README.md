@@ -32,7 +32,7 @@ Esta librería es el primer paso para integrar la monitorización de parámetros
 Usar la librería es muy sencillo. Solo sigue estos pasos para tener tu sensor midiendo luz en pocos minutos.
 
 1. **Conexión del Módulo**
-Antes que nada, conecta tu módulo de sensor BH1750 al puerto marcado como ***I2C*** dentro de la zona de ***Comunicaciones*** en tu placa MentorBit. ¡Y listo! No necesitas más cables.
+Antes que nada, conecta tu módulo de sensor BMP-280 al puerto marcado como ***I2C*** dentro de la zona de ***Comunicaciones*** en tu placa MentorBit. ¡Y listo! No necesitas más cables.
 
 2. **Instalación de las Librerías**
 Para que tu placa MentorBit pueda comunicarse con el sensor, solo necesitas instalar una librería. El gestor del IDE de Arduino se encargará del resto.
