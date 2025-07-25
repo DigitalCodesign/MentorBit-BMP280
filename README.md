@@ -3,6 +3,8 @@ Esta librería te permite construir tu propia mini estación meteorológica con 
 
 El sensor BMP-280 es capaz de medir tres cosas importantes de la atmósfera que te rodea: la temperatura, la presión atmosférica y, a partir de ella, puede estimar la altitud a la que te encuentras.
 
+![Render del Módulo MentorBit de BMP-280.](https://github.com/DigitalCodesign/MentorBit-BMP280/blob/main/assets/BMP280_Module.png)
+
 Gracias al sistema MentorBit, solo tienes que conectar el módulo con un único cable y, con esta librería, podrás obtener datos precisos sin complicaciones. ¡Ideal para iniciarte en el monitoreo ambiental!
 
 ## Descripción
@@ -39,6 +41,8 @@ Para que tu placa MentorBit pueda comunicarse con el sensor, solo necesitas inst
 - Ve al menú *Program -> Incluir Librería -> Administrar Bibliotecas...*
 - En el buscador, escribe ***MentorBitBMP280*** y haz clic en "Instalar".
 - El IDE detectará que esta librería necesita otras para funcionar. Haz clic en "Install all" o "Instalar todo" cuando te lo pregunte.
+
+![Ejemplo de búsqueda en el gestor de librerías del IDE de Arduino.](https://github.com/DigitalCodesign/MentorBit-BMP280/blob/main/assets/library_instalation_example.png)
 
 ¡Y ya está! Con eso tienes todo lo necesario para empezar a programar.
 
