@@ -110,11 +110,11 @@ Solo necesitas conocer estas sencillas funciones para controlar el sensor.
 
 - <code>float leerPresion()</code>
    - **¿Qué hace?** Le pide al sensor la presión atmosférica y la devuelve como un número decimal (de tipo <code>float</code>) en **Pascales (Pa)**.
-   - **¿Cuándo se usa?** Cuando necesites una lectura de la presión, habitualmente dentro del <code>loop()<code>. Recuerda que puedes dividir el resultado entre 100 para obtener HectoPascals (hPa).
+   - **¿Cuándo se usa?** Cuando necesites una lectura de la presión, habitualmente dentro del <code>loop()</code>. Recuerda que puedes dividir el resultado entre 100 para obtener HectoPascals (hPa).
 
 - <code>float leerAltura()</code>
-   - **¿Qué hace?** Calcula la altitud estimada a partir de la presión y la devuelve como un número decimal (de tipo <code>float<code>) en **metros (m)**.
-   - **¿Cuándo se usa?** Siempre que quieras obtener una estimación de la altitud, por lo general dentro de la función <code>loop()<code>.
+   - **¿Qué hace?** Calcula la altitud estimada a partir de la presión y la devuelve como un número decimal (de tipo <code>float</code>) en **metros (m)**.
+   - **¿Cuándo se usa?** Siempre que quieras obtener una estimación de la altitud, por lo general dentro de la función <code>loop()</code>.
 
 ## Recursos Adicionales
 ¿Quieres saber más sobre el módulo o necesitas comprar uno? Aquí tienes algunos enlaces que te serán de utilidad:
