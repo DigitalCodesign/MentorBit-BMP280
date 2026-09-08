@@ -17,9 +17,9 @@
         
 
     Autor: Digital Codesign
-    Version: 1.0.0
+    Version: 1.0.2
     Fecha de creación: Septiembre de 2024
-    Fecha de version: Septiembre de 2024
+    Fecha de version: Septiembre de 2026
     Repositorio: https://github.com/DigitalCodesign/MentorBit-BMP280
     Descripcion: 
         Esta libreria esta especificamente diseñada para ser utilizada junto con 
@@ -39,7 +39,7 @@ MentorBitBMP280::MentorBitBMP280(){
 
 }
 
-void MentorBitBMP280::begin(uint8_t i2c_addr = 0x76){
+void MentorBitBMP280::begin(uint8_t i2c_addr){
     _i2c_addr = i2c_addr;
      bmp.begin(_i2c_addr);
 }

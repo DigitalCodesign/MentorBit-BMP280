@@ -17,9 +17,9 @@
         
 
     Autor: Digital Codesign
-    Version: 1.0.0
+    Version: 1.0.2
     Fecha de creación: Septiembre de 2024
-    Fecha de version: Septiembre de 2024
+    Fecha de version: Septiembre de 2026
     Repositorio: https://github.com/DigitalCodesign/MentorBit-BMP280
     Descripcion: 
         Esta libreria esta especificamente diseñada para ser utilizada junto con 
